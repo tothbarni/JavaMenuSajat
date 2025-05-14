@@ -1,0 +1,3 @@
+Valaki4
+-== Szoftverfejlesztő ==-
+false
